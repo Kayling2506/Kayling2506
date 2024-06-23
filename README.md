@@ -4,7 +4,7 @@
   <h5 aling = "center">:8ball: :hearts: I love videogames, coffee, rainy days and reading. :video_game: :joystick: </h5>
 </div>
 <br>
-<img src="https://github.com/Kayling2506/kayling2506/_e083a80d-24ec-40a0-9efe-b00960d4659e.png" width="25%" align="right" />
+<img src="assets/_e083a80d-24ec-40a0-9efe-b00960d4659e.png" width="25%" align="right" />
 <br>
 <h2 align="center">attitudes </h2>
 <div align="center">
@@ -13,5 +13,7 @@
   :purple_square:	Empathy and friendliness
   :blue_square:	Teamwork	
 </div>
+
+
 
 
