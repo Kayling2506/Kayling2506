@@ -4,7 +4,7 @@
   <h5 aling = "center">:8ball: :hearts: I love videogames, coffee, rainy days and reading. :video_game: :joystick: </h5>
 </div>
 
-<p align="center"> <img src="assets/_b9d8b052-2c29-4531-9850-96fbff39ae6c.png" width="500"/></p>
+<p align="center"> <img src="assets/_b9d8b052-2c29-4531-9850-96fbff39ae6c.png" width="900"/></p>
 
 <h2 align="center">attitudes </h2>
 <div align="center">
