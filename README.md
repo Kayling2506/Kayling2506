@@ -7,7 +7,7 @@
 <div align="center">
   
 </div>
-<img src="assets/_b9d8b052-2c29-4531-9850-96fbff39ae6c.png" width="25%" align="right" />
+<img src="assets/_b9d8b052-2c29-4531-9850-96fbff39ae6c.png" />
 <br>
 <h2 align="center">attitudes </h2>
 <div align="center">
