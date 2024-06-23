@@ -1,7 +1,7 @@
 <div align="center">
   <h1 aling = "Center"> :smiley_cat:	!Hello! :smiley_cat:	 </h1>
   <h3> I'm a web programmer </h3>
-  <h5 aling = "center">:8ball: :hearts: I love videogames, coffee, rainy days and reading. :video_game: :joystick: </h5>
+  <p align="center"> :8ball: :hearts: I love videogames, coffee, rainy days and reading. :video_game: </p>
 </div>
 
 <p align="center"> <img src="assets/_b9d8b052-2c29-4531-9850-96fbff39ae6c.png" width="900"/></p>
