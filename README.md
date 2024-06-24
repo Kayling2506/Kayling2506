@@ -3,8 +3,8 @@
   <h3> I'm a web programmer </h3>
   <p align="center"> :8ball: :hearts: I love videogames, coffee, rainy days and reading. :video_game: </p>
 </div>
-<p align="center"> <img src="assets/H.gif" width="900"/></p>
 
+<p align="center"> <img src="assets/H.gif" width="900"/></p>
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 <pre>
   <h2 align="center">knowledge</h2>
