@@ -10,6 +10,7 @@
   <h2 align="center">knowledge and Tools</h2>
   <p align="center"> <img src="assets/Barra_Habilidades_V3.png"/></p>
 </pre>
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 <pre>
   <h2 align="center">Descripción</h2>
 <p align="center">I am a passionate and creative frontend web  developer  with  a  strong  background  in  building  attractive  and  functional  user 
