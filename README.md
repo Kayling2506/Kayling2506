@@ -14,8 +14,8 @@
 <pre>
   <h2 align="center">Descripción</h2>
 <p align="center">I am a passionate and creative frontend web  developer with a strong background in building attractive and functional  user 
-interfaces. I have honed my skills in creating websites and web applications that are not only aesthetically pleasing, but also 
-intuitive and accessible to users./></p>
+interfaces. I have honed my skills in creating websites and web applications that are not only aesthetically pleasing, but 
+also intuitive and accessible to users./></p>
  <p align="center">HTML/CSS:  </p> <p align="center">Using HTML5 and CSS3 to structure and style web pages, ensuring a responsive 
 design that adapts to different devices and screen sizes.</p>
 
