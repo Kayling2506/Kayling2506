@@ -32,8 +32,8 @@ on team projects.</p>
 <p align="center">FIGMA: </p><p align="center">Knowledge in structuring and creating mockups, for the creation and design of web pages and 
 web applications.</p>
 </p>
-  
 </pre>
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 
 
 
