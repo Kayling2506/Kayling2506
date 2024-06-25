@@ -7,7 +7,7 @@
 <p align="center"> <img src="assets/H.gif" width="900"/></p>
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 <pre>
-  <h2 align="center">knowledge</h2>
+  <h2 align="center">knowledge and Tools</h2>
   <p align="center"> <img src="assets/Barra_Habilidades_V3.png"/></p>
 </pre>
 
