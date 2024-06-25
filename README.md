@@ -25,13 +25,11 @@ interactive web applications. </p>
 <p align="center">PHP: </p><p align="center">Knowledge in PHP8, using frameworks and libraries such as Laravel to build dynamic and interactive
 web applications. </p>
 
-<p align="center">Version Control: </p>
-Familiarity with Git and GitHub, ensuring efficient code management and collaboration 
-on team projects.
+<p align="center">Version Control: </p><p align="center">Familiarity with Git and GitHub, ensuring efficient code management and collaboration 
+on team projects.</p>
 
-<p align="center">FIGMA: </p>
-Knowledge in structuring and creating mockups, for the creation and design of web pages and 
-web applications.
+<p align="center">FIGMA: </p><p align="center">Knowledge in structuring and creating mockups, for the creation and design of web pages and 
+web applications.</p>
 </p>
   
 </pre>
