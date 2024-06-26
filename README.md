@@ -19,26 +19,28 @@
 
 <!--Bloque 4 / Descripcion de sobre mi perfil de GitHub -->  
 <pre>
-  <h2 align="center">Descripción</h2>
+  <h2 align="left">Descripción</h2>
 <p align="center">I am a passionate and creative frontend web  developer with a strong background in building attractive and functional  user 
 interfaces. I have honed my skills in creating websites and web applications that are not only aesthetically pleasing, but 
 also intuitive and accessible to users./></p>
+<p align="center"><img src="assets/_006a21be-3c1b-45dd-a594-2f07e21805fc.png" width="400"></p>
+  
 </pre>
 
 <!--Bloque 5 / Tabla (Descripcion de las habilidades t Responsabilidades -->           
-  |                                                                                                                          |
-  |--------------------------------------------------------------------------------------------------------------------------|
-  |                                <p align="center">HTML5 / CSS3: </p>                                                      |
-  |   Use of HTML5 and CSS3 to structure and style web pages, ensuring a responsive design that adapts to different devices  |    
-  |                                <p align="center">JAVASCRIP: </p>                                                         |
-  |Knowledge of JavaScript, using frameworks and libraries such as Node.js to build dynamic and interactive web applications.|
-  |                                <p align="center">PHP: </p>                                                               |
-  |   Knowledge in PHP8, using frameworks and libraries such as Laravel to build dynamic and interactive web applications.   |
-  |                                <p align="center">Version Control: </p>                                                   |
-  |         Familiarity with Git and GitHub, ensuring efficient code management and collaboration  on team projects.         |
-  |                                <p align="center">FIGMA: </p>                                                             |
-  |       Knowledge in structuring and creating mockups, for the creation and design of web pages and web applications.      |
-  |                                                                                                                          |
+  |                                                                                                                           |            |
+  |---------------------------------------------------------------------------------------------------------------------------|------------|
+  |                                <p align="center">HTML5 / CSS3: </p>                                                       |            |
+  |   Use of HTML5 and CSS3 to structure and style web pages, ensuring a responsive design that adapts to different devices   |            |  
+  |                                <p align="center">JAVASCRIP: </p>                                                          |            |
+  |Knowledge of JavaScript, using frameworks and libraries such as Node.js to build dynamic and interactive web applications. |            |
+  |                                <p align="center">PHP: </p>                                                                |            |  
+  |   Knowledge in PHP8, using frameworks and libraries such as Laravel to build dynamic and interactive web applications.    |            |
+  |                                <p align="center">Version Control: </p>                                                    |            |
+  |         Familiarity with Git and GitHub, ensuring efficient code management and collaboration  on team projects.          |            |
+  |                                <p align="center">FIGMA: </p>                                                              |            |
+  |       Knowledge in structuring and creating mockups, for the creation and design of web pages and web applications.       |            |
+  |                                                                                                                           |            |
 
 
 
