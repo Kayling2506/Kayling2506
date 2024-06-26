@@ -19,11 +19,14 @@
 
 <!--Bloque 4 / Descripcion de sobre mi perfil de GitHub -->  
 <pre>
-  <h2 align="left">Descripción</h2>
+  <h2 align="left"></h2>
+   <p align="center"> <img src="assets/About_me_3.png"/></p>
+<!--
 <p align="center">I am a passionate and creative frontend web  developer with a strong background in building attractive and functional  user 
 interfaces. I have honed my skills in creating websites and web applications that are not only aesthetically pleasing, but 
 also intuitive and accessible to users./></p>
 <p align="center"><img src="assets/_006a21be-3c1b-45dd-a594-2f07e21805fc.png" width="400"></p>
+  -->  
 </pre>
 
 <!--Bloque 5 / Tabla (Descripcion de las habilidades t Responsabilidades -->           
