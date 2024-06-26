@@ -41,7 +41,7 @@ also intuitive and accessible to users./></p>
 |                                <p align="center">FIGMA: </p>                                                              |                                                                      |
 |       Knowledge in structuring and creating mockups, for the creation and design of web pages and web applications.       | <img src= "assets/Temple/figma_logo_icon_170157.png" width="50"/>    |
 |                                <p align="center">C# </p>                                                                  |                                                                      |
-|                 Development of web applications and configuration of cloud services                                       | <img src= "assets/Temple/csharp_logo_icon_146578.png" width="50"/>   | 
+|         Development, management and co-configuration of web applications and web servers as cloud services                | <img src= "assets/Temple/csharp_logo_icon_146578.png" width="50"/>   | 
 |                                <p align="center">JAVASCRIP: </p>                                                          |                                                                      |
 |Knowledge of JavaScript, using frameworks and libraries such as Node.js to build dynamic and interactive web applications. |<img src= "assets/Temple/javascript_logo_icon_146455.png" width="50"/>|
 |                                <p align="center">PHP: </p>                                                                |                                                                      | 
