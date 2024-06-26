@@ -15,7 +15,7 @@
   <h2 align="center">knowledge and Tools</h2>
   <p align="center"> <img src="assets/Barra_Habilidades_V3.png"/></p>
 </pre>
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 
 <!--Bloque 4 / Descripcion de sobre mi perfil de GitHub -->  
 <pre>
@@ -24,30 +24,24 @@
 interfaces. I have honed my skills in creating websites and web applications that are not only aesthetically pleasing, but 
 also intuitive and accessible to users./></p>
 <p align="center"><img src="assets/_006a21be-3c1b-45dd-a594-2f07e21805fc.png" width="400"></p>
-  
 </pre>
 
 <!--Bloque 5 / Tabla (Descripcion de las habilidades t Responsabilidades -->           
-  |                                                                                                                           |            |
-  |---------------------------------------------------------------------------------------------------------------------------|------------|
-  |                                <p align="center">HTML5 / CSS3: </p>                                                       |            |
-  |   Use of HTML5 and CSS3 to structure and style web pages, ensuring a responsive design that adapts to different devices   |            |  
-  |                                <p align="center">JAVASCRIP: </p>                                                          |            |
-  |Knowledge of JavaScript, using frameworks and libraries such as Node.js to build dynamic and interactive web applications. |            |
-  |                                <p align="center">PHP: </p>                                                                |            |  
-  |   Knowledge in PHP8, using frameworks and libraries such as Laravel to build dynamic and interactive web applications.    |            |
-  |                                <p align="center">Version Control: </p>                                                    |            |
-  |         Familiarity with Git and GitHub, ensuring efficient code management and collaboration  on team projects.          |            |
-  |                                <p align="center">FIGMA: </p>                                                              |            |
-  |       Knowledge in structuring and creating mockups, for the creation and design of web pages and web applications.       |            |
-  |                                                                                                                           |            |
+|                                                                                                                           |                                                                     |
+|---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
+|                                <p align="center">HTML5 / CSS3: </p>                                                       |                                                                     |
+|   Use of HTML5 and CSS3 to structure and style web pages, ensuring a responsive design that adapts to different devices   | <img src= "assets/Temple/file_type_html_icon_130541.png"/>          | 
+|                                <p align="center">JAVASCRIP: </p>                                                          |                                                                     |
+|Knowledge of JavaScript, using frameworks and libraries such as Node.js to build dynamic and interactive web applications. | <img src= "assets/Temple/javascript_original_logo_icon_146455.png"/>|
+|                                <p align="center">PHP: </p>                                                                |                                                                     | 
+|   Knowledge in PHP8, using frameworks and libraries such as Laravel to build dynamic and interactive web applications.    | <img src= "assets/Temple/file_type_php_icon_130266.png" />          |
+|                                <p align="center">Version Control: </p>                                                    |                                                                     |
+|         Familiarity with Git and GitHub, ensuring efficient code management and collaboration  on team projects.          | <img src= "assets/Temple/file_type_git_icon_130581.png"/>           |
+|                                <p align="center">FIGMA: </p>                                                              |                                                                     |
+|       Knowledge in structuring and creating mockups, for the creation and design of web pages and web applications.       | <img src= "assets/Temple/figma_logo_icon_170157.png"/>              |
+|                                                                                                                           |                                                                     |
 
-
-
-
-
-
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 
 
 
