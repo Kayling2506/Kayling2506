@@ -47,7 +47,7 @@ also intuitive and accessible to users./></p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 
-<p align="center"><img src= "assets/LOADING_ONE"width="50"/><img src= "assets/LOADING_Two" width="50"/></p>
+
 
 
 
