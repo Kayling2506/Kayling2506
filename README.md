@@ -18,7 +18,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 
 <!--Bloque 4 / Descripcion de sobre mi perfil de GitHub -->  
-  <h2 align="center">:trophy: :trophy: Kayling2506 :trophy: :trophy:</h2>
+  <h2 align="center">:trophy: :trophy: More about me :trophy: :trophy:</h2>
    <p align="center"> <img src="assets/About_me_3.png"/></p>
 <!--
 <p align="center">I am a passionate and creative frontend web  developer with a strong background in building attractive and functional  user 
