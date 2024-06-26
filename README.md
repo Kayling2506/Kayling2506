@@ -18,8 +18,8 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 
 <!--Bloque 4 / Descripcion de sobre mi perfil de GitHub -->  
-  <h2 align="center">:trophy: :trophy: More about me :trophy: :trophy:</h2>
-   <p align="center"> <img src="assets/About_me_3.png"/></p>
+  <h2 align="center" color="F99311e">:trophy: :trophy: More about me :trophy: :trophy:</h2>
+   <p align="center"> <img src="assets/About_me_4.png"/></p>
 <!--
 <p align="center">I am a passionate and creative frontend web  developer with a strong background in building attractive and functional  user 
 interfaces. I have honed my skills in creating websites and web applications that are not only aesthetically pleasing, but 
@@ -28,7 +28,7 @@ also intuitive and accessible to users./></p>
   -->  
 
 <!--Bloque 5 / Tabla (Descripcion de las habilidades t Responsabilidades -->           
-|                                                                                                                           |                                                                      |
+|     :desktop_computer:    :computer:	      Performance of Tasks and Functions    :computer:	  :desktop_computer:	      |                    :smiley_cat:	                                     |
 |---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
 |                                <p align="center">HTML5 / CSS3: </p>                                                       |                                                                      |
 |   Use of HTML5 and CSS3 to structure and style web pages, ensuring a responsive design that adapts to different devices   |<img src= "assets/Temple/file_type_html_icon_130541.png" width="50"/> | 
