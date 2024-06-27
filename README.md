@@ -23,21 +23,22 @@
    
 
 <!--Bloque 5 / Tabla (Descripcion de las habilidades t Responsabilidades -->           
-<!--Uso de tecnologias, y dominio de estas mismas en un resumen de las mismas -->           
+<!--Uso de tecnologias, y dominio de estas mismas en un resumen de las mismas -->     
+
 |     :desktop_computer:    :computer:	      Performance of Tasks and Functions    :computer:	  :desktop_computer:	      |                    :smiley_cat:	                                     |
 |---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
 |                                <p align="center">HTML5 / CSS3: </p>                                                       |                                                                      |
-|   Use of HTML5 and CSS3 to structure and style web pages, ensuring a responsive design that adapts to different devices   |<img src= "assets/Temple/file_type_html_icon_130541.png" width="50"/> | 
+|Use of HTML5 and CSS3 to structure and style web pages, ensuring a responsive design that adapts to different devices   |<img src= "assets/Temple/file_type_html_icon_130541.png"width="50"/>     | 
 |                                <p align="center">JAVASCRIP: </p>                                                          |                                                                      |
-|Knowledge of JavaScript, using frameworks and libraries such as Node.js to build dynamic and interactive web applications. |<img src= "assets/Temple/javascript_logo_icon_146455.png" width="50"/>|
+|Knowledge of JavaScript, using frameworks and libraries such as Node.js to build dynamic and interactive web applications.|<img src= "assets/Temple/javascript_logo_icon_146455.png" width="50"/> |
 |                                <p align="center">PHP: </p>                                                                |                                                                      | 
 |   Knowledge in PHP8, using frameworks and libraries such as Laravel to build dynamic and interactive web applications.    |<img src= "assets/Temple/file_type_php_icon_130266.png" width="50"/>  |
 |                                <p align="center">Version Control: </p>                                                    |                                                                      |
 |         Familiarity with Git and GitHub, ensuring efficient code management and collaboration  on team projects.          | <img src= "assets/Temple/file_type_git_icon_130581.png" width="50"/> |
 |                                <p align="center">FIGMA: </p>                                                              |                                                                      |
-|       Knowledge in structuring and creating mockups, for the creation and design of web pages and web applications.       | <img src= "assets/Temple/figma_logo_icon_170157.png" width="50"/>    |
+|Knowledge in structuring and creating mockups, for the creation and design of web pages and web applications.              | <img src= "assets/Temple/figma_logo_icon_170157.png" width="50"/>    |
 |                                <p align="center">C# </p>                                                                  |                                                                      |
-|         Development, management and co-configuration of web applications and web servers as cloud services                | <img src= "assets/Temple/csharp_logo_icon_146578.png" width="50"/>   | 
+| Development, management and co-configuration of web applications and web servers as cloud services                        | <img src= "assets/Temple/csharp_logo_icon_146578.png" width="50"/>   | 
 |                                                                                                                           |                                                                      |
                                                                                                                                                                     
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
