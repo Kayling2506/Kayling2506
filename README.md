@@ -39,7 +39,7 @@
 |Knowledge in structuring and creating mockups, for the creation and design of web pages and web applications.              | <img src= "assets/Temple/figma_logo_icon_170157.png" width="50"/>    |
 |                                <p align="center">C# </p>                                                                  |                                                                      |
 | Development, management and co-configuration of web applications and web servers as cloud services                        | <img src= "assets/Temple/csharp_logo_icon_146578.png" width="50"/>   | 
-|                                  <p align="center">Aplication E-LERMING </p>                                              |                                                                      |
+|                                  <p align="center">APLICATION E-LERMING </p>                                              |                                                                      |
 | Creation, editing, administration and management of E-Lerming applications                                                |<img src= "assets/Temple/moodle_plain_logo_icon_1464.png" width="50"/>|
                                                                                                                                                                     
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
