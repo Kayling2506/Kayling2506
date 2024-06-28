@@ -42,6 +42,7 @@
 |                                  <p align="center">APLICATION E-LERMING </p>                                              |                                                                      |
 | Creation, editing, administration and management of E-Lerming applications                                                |<img src= "assets/Temple/moodle_plain_logo_icon_1464.png" width="50"/>|
                                                                                                                                                                     
+                                                                                                                                                                    
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 
 
