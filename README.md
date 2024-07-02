@@ -45,7 +45,6 @@
                                                                                                                                                                     
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 
-<p aling ="center"><a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/668338dfd270cc49a6b95ff1?variant=dark" alt="roadmap.sh"/></a> </p>
 
 
 
