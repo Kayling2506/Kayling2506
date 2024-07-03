@@ -45,7 +45,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 
 
-<!-- Bloque 6 Estadistica y Tabla de Habilidades dentro de la comunidadde GitHub-->
+<!-- Bloque 6 Estadistica y Tabla de Habilidades dentro de la comunidadde GitHub
 <img src= "[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?name=Kayling2506)](https://github.com/anuraghazra/github-readme-stats)"/>
 <div align = "center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -64,6 +64,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
   </a>
 </div>
+-->
 
 
 
