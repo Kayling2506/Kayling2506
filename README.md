@@ -45,26 +45,11 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 
 
-<!-- Bloque 6 Estadistica y Tabla de Habilidades dentro de la comunidadde GitHub
-<img src= "[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?name=Kayling2506)](https://github.com/anuraghazra/github-readme-stats)"/>
-<div align = "center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-  </a>
+<!-- Bloque 6 Estadistica y Tabla de Habilidades dentro de la comunidadde GitHub-->
+<img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kayling2506&show_icons=true&theme=radical)"/>
 
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-  </a>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-  </a>
 
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-  </a>
-</div>
--->
 
 
 
